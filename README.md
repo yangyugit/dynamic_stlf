@@ -55,4 +55,4 @@ static_est.m, pf_dyanmic_est.m are the function in ensemble_forecast.m to realiz
 **test_case_2 file** has the similar sturcture of **test_case_1_file**. 
 
 #### Recommendation
-To only check the performance of dynamic ensemble method for residential load forecasting performance, **you can only run the ensemble_forecasting.m to get the error indices .csv file, and run the figure_plot.m to obtain the preformance figures. **
+To only check the performance of dynamic ensemble method for residential load forecasting performance, **you can only run the ensemble_forecasting.m to get the error indices .csv file, and run the figure_plot.m to obtain the preformance figures**. 
