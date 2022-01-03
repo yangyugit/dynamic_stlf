@@ -24,7 +24,7 @@ The URL of AEP is https://archive.ics.uci.edu/ml/datasets/Appliances+energy+pred
 #### script.m:
 data_preprocessing.m deals with the data of IHEPC and AEP to interpolate the missing data and produces the corresponding .mat file which can be load to the MATLAB fast. 
 
-hyperparameters_selection.m illustates the hyperparameters selection of the base models. The main idea is arial and error. Running of the script will take lots of time. 
+hyperparameters_selection.m illustates the hyperparameters selection of the base models. The main idea is tarial and error. Running of the script will take lots of time. 
 
 test_case_1 file contains the corresponding script.m of test scenario 1 that the base model is accurate. 
 
