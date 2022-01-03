@@ -1,3 +1,1 @@
-# A dynamic ensemble method for residential short-term load forecasting
-This code is written in Matlab. 
-
+## A dynamic ensemble method for residential short-term load forecasting
